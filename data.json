@@ -281,7 +281,7 @@
           },
           {
             "floorId": "",
-            "templateId": "680230e44260cb00228c55c3",
+            "templateId": "cartoon_doll",
             "templateTitle": "Cute Doll",
             "templateDesc": "Upload your photo to become a moving barbie action figure",
             "templateType": "image2video",
@@ -560,7 +560,7 @@
             "characterImageUrlList": []
           },
           {
-            "floorId": "",
+            "floorId": "morphlab_4",
             "templateId": "67650520aaaca00022ac6e28",
             "templateTitle": "Melt",
             "templateDesc": "Upload your photo to create a melting effect",
