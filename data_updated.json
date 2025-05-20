@@ -894,5 +894,33 @@
     "tags": null,
     "category": "facedance",
     "characterImageUrlList": []
+  },
+  {
+    "floorId": "",
+    "templateId": "animation_2d",
+    "templateTitle": "Anime",
+    "templateDesc": "Upload your photo to see what you would look like with curly pink hair",
+    "templateType": "facedance",
+    "resourceUrl": "https://github.com/iamyashchouhan/mova_ai/raw/refs/heads/main/c714f2c6-027f-4d65-a7e8-085f903e4954.mp4",
+    "resourceType": "video",
+    "video": "blob:https://www.clipfly.ai/c714f2c6-027f-4d65-a7e8-085f903e4954",
+    "styleId": "",
+    "prompt": "Turning hair into fishtail perm",
+    "userUploadNumber": 1,
+    "faceDetection": false,
+    "deductCredits": 10,
+    "openPrompt": false,
+    "portraitsId": "",
+    "generateImageUrl": "https://pub-static.fotor.com/assets/clipfly-apphttps://raw.githubusercontent.com/iamyashchouhan/mova_ai/refs/heads/main/templates/ukgwoj8efezh.jpg",
+    "badge": "",
+    "isCustomEnabled": false,
+    "isReferenceImageUploaded": false,
+    "isSupportAddBgm": false,
+    "script": null,
+    "scriptPartCredit": 0,
+    "scriptTotalCredit": 0,
+    "tags": null,
+    "category": "stylevideo",
+    "characterImageUrlList": []
   }
 ]
