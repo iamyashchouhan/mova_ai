@@ -920,12 +920,12 @@
     "scriptPartCredit": 0,
     "scriptTotalCredit": 0,
     "tags": null,
-    "category": "stylevideo",
+    "category": "style",
     "characterImageUrlList": []
   },
   {
     "floorId": "",
-    "templateId": "animation_2d",
+    "templateId": "pixel",
     "templateTitle": "Anime",
     "templateDesc": "Upload your photo to see what you would look like with curly pink hair",
     "templateType": "facedance",
